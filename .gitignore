@@ -48,6 +48,8 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# starter ContentContent/*
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
@@ -75,3 +77,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Articy Dateien
+Articy/*
+
+# Projektbilder
+Bilder/*
+
+Binaries/*
+
+Blender/*
+*docx
+
+# Build Dateien von Unreal
+Unreal Dateien/Andor/Content/
+Unreal Dateien/Andor/Intermediate/
+Unreal Dateien/Andor/Binaries/

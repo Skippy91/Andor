@@ -1,0 +1,977 @@
+﻿Log file open, 09/29/18 22:47:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Andor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1332451028) SRandInit(-1332451028).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298202
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.505s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Binaries/Win64/UE4Editor-Andor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Skippy-PC (192.168.192.31:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: E:/Epic Games/Epic Games/Unreal Engine 4.19.2/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-20.47.43:169][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-20.47.43:169][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-20.47.43:358][  0]LogInit: Computer: SKIPPY-PC
+[2018.09.29-20.47.43:358][  0]LogInit: User: Skippy
+[2018.09.29-20.47.43:358][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.29-20.47.43:358][  0]LogInit: High frequency timer resolution =3.932675 MHz
+[2018.09.29-20.47.43:359][  0]LogMemory: Memory total: Physical=15.2GB (16GB approx)
+[2018.09.29-20.47.43:359][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-20.47.43:359][  0]LogMemory: Process Physical Memory: 277.23 MB used, 277.23 MB peak
+[2018.09.29-20.47.43:359][  0]LogMemory: Process Virtual Memory: 268.95 MB used, 268.95 MB peak
+[2018.09.29-20.47.43:359][  0]LogMemory: Physical Memory: 11321.54 MB used,  4291.68 MB free, 15613.21 MB total
+[2018.09.29-20.47.43:359][  0]LogMemory: Virtual Memory: 647.02 MB used,  4291.68 MB free, 8388608.00 MB total
+[2018.09.29-20.47.45:063][  0]LogInit: Using OS detected language (de-DE).
+[2018.09.29-20.47.45:063][  0]LogInit: Using OS detected locale (de-DE).
+[2018.09.29-20.47.45:553][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.09.29-20.47.51:833][  0]LogStreaming: Display: Took  6.770s to EndInitTextLocalization.
+[2018.09.29-20.47.51:834][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.09.29-20.47.51:834][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.09.29-20.47.51:834][  0]LogInit: Setting process to DPI aware
+[2018.09.29-20.47.51:924][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.09.29-20.47.51:924][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.09.29-20.47.51:924][  0]LogInit: Setting process to DPI aware
+[2018.09.29-20.47.52:309][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.29-20.47.52:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.29-20.47.58:214][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-20.47.58:628][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.09.29-20.47.58:628][  0]LogD3D11RHI:       3050/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.09.29-20.47.58:628][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-20.47.58:643][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-20.47.58:643][  0]LogD3D11RHI:     GPU DeviceId: 0x679a (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-20.47.58:643][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-20.47.58:643][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.09.29-20.47.58:644][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.09.29-20.47.58:644][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.09.29-20.47.58:645][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.09.29-20.47.58:645][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.09.29-20.47.58:646][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.09.29-20.47.58:647][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2018.09.29-20.47.58:647][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.09.29-20.47.58:647][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.09.29-20.47.58:648][  0]LogWindows:    9. 'LogMeIn Mirror Driver' (P:0 D:0)
+[2018.09.29-20.47.58:648][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2018.09.29-20.47.58:648][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.09.29-20.47.58:648][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.4.4 (internal:22.19.162.4, unified:22.19.162.4)
+[2018.09.29-20.47.58:648][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2018.09.29-20.47.58:648][  0]LogRHI: Texture pool is 2135 MB (70% of 3050 MB)
+[2018.09.29-20.47.58:729][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-20.47.58:742][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.09.29-20.47.58:743][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Intermediate/Shaders/WorkingDirectory/15168/).
+[2018.09.29-20.47.58:743][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skippy/AppData/Local/Temp/UnrealShaderWorkingDir/8D41EBB441C14BA83D48D79B7FBE106F/'.
+[2018.09.29-20.48.01:814][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-20.48.01:846][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-20.48.01:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-20.48.01:962][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-20.48.02:018][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-20.48.02:062][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-20.48.02:132][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-20.48.02:415][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-20.48.02:647][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-20.48.02:714][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.29-20.48.02:955][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.29-20.48.03:311][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.29-20.48.03:390][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.29-20.48.03:697][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.29-20.48.03:817][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.29-20.48.04:097][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.29-20.48.04:097][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.29-20.48.04:241][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-20.48.04:302][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-20.48.04:781][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-20.48.04:802][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-20.48.04:868][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-20.48.04:903][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-20.48.05:111][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-20.48.05:185][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-20.48.05:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-20.48.06:376][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.29-20.48.06:376][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.29-20.48.06:376][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-20.48.09:126][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-20.48.11:233][  0]LogDerivedDataCache: Loaded boot cache 2.11s 74MB C:/Users/Skippy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.29-20.48.11:233][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skippy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.29-20.48.11:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-20.48.11:234][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-20.48.11:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-20.48.11:234][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-20.48.11:343][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-20.48.11:355][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skippy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-20.48.11:355][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.29-20.48.11:355][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.29-20.48.11:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-20.48.11:374][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.29-20.48.11:528][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-20.48.11:528][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-20.48.32:279][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.09.29-20.48.36:406][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-20.48.37:218][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-20.48.37:281][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-20.48.37:281][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-20.48.37:281][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-20.48.37:281][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.29-20.48.37:281][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.29-20.48.37:415][  0]LogNetVersion: Andor , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 654823087)
+[2018.09.29-20.48.38:878][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.071991 seconds
+[2018.09.29-20.48.38:886][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.29-20.48.38:886][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.29-20.48.38:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-20.48.57:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-20.48.58:075][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-20.48.59:130][  0]SourceControl: Source control is disabled
+[2018.09.29-20.48.59:131][  0]SourceControl: Source control is disabled
+[2018.09.29-20.48.59:194][  0]SourceControl: Source control is disabled
+[2018.09.29-20.48.59:229][  0]SourceControl: Source control is disabled
+[2018.09.29-20.49.00:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-20.49.01:006][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-20.49.01:263][  0]LogEngine: Initializing Engine...
+[2018.09.29-20.49.01:266][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-20.49.01:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-20.49.01:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-20.49.01:872][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-20.49.01:929][  0]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-20.49.01:958][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-20.49.02:103][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/Skippy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.29-20.49.02:139][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-20.49.02:246][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-20.49.02:294][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-20.49.02:420][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-20.49.02:877][  0]LocalizationService: Localization service is disabled
+[2018.09.29-20.49.03:277][  0]LogConsoleResponse: Display: 
+[2018.09.29-20.49.03:687][  0]LogFileCache: Scanning file cache for directory 'E:/Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/' took 0.01s
+[2018.09.29-20.49.03:687][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-20.49.03:687][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-20.49.03:687][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-20.49.03:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-20.49.03:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-20.49.04:670][  0]SourceControl: Source control is disabled
+[2018.09.29-20.49.04:671][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-20.49.04:679][  0]LightingResults: New page: Lighting Build
+[2018.09.29-20.49.04:693][  0]MapCheck: New page: Map Check
+[2018.09.29-20.49.04:693][  0]LightingResults: New page: Lighting Build
+[2018.09.29-20.49.05:109][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.29-20.49.05:119][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-20.49.05:148][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-20.49.05:229][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80,575ms to complete.
+[2018.09.29-20.49.05:229][  0]LogFileHelpers: Loading map 'Template_Default' took 0.558
+[2018.09.29-20.49.05:770][  0]LogCollectionManager: Loaded 0 collections in 0.003321 seconds
+[2018.09.29-20.49.05:925][  0]LogFileCache: Scanning file cache for directory 'E:/Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Collections/' took 0.01s
+[2018.09.29-20.49.05:925][  0]LogFileCache: Scanning file cache for directory 'E:/Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Developers/Skippy/Collections/' took 0.01s
+[2018.09.29-20.49.05:925][  0]LogFileCache: Scanning file cache for directory 'E:/Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Collections/' took 0.01s
+[2018.09.29-20.49.05:925][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.29-20.49.05:949][  0]LogContentBrowser: Native class hierarchy populated in 0.0233 seconds. Added 2453 classes and 560 folders.
+[2018.09.29-20.49.06:071][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.09.29-20.49.06:796][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.09.29-20.49.07:373][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.09.29-20.49.07:509][  0]LogSlate: Took 0.020300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-20.49.07:537][  0]LogSlate: Took 0.016875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-20.49.07:563][  0]LogSlate: Took 0.009783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-20.49.07:580][  0]LogSlate: Took 0.011264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.09.29-20.49.07:965][  0]LogRenderer: Reallocating scene render targets to support 1248x728 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-20.49.08:764][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.09.29-20.49.08:764][  0]LogLoad: (Engine Initialization) Total time: 103.45 seconds
+[2018.09.29-20.49.08:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-20.49.09:161][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.29-20.49.09:783][  2]LogAssetRegistry: Asset discovery search completed in 37.5226 seconds
+[2018.09.29-20.49.09:786][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.29-20.49.09:786][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000312 seconds (updated 0 objects)
+[2018.09.29-20.54.36:144][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-20.57.25:598][444]LogSlate: Took 0.016588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-20.57.32:576][228]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-20.57.34:236][228]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-20.57.34:362][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.29-20.57.34:418][228]LogSavePackage: Save=14.66ms
+[2018.09.29-20.57.34:419][228]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu10EA69954C94037A078920B6DAB15671.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/MainMenu.umap'
+[2018.09.29-20.57.34:473][228]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/MainMenu.umap
+[2018.09.29-20.57.34:474][228]LogFileHelpers: Saving map 'MainMenu' took 0.231
+[2018.09.29-20.57.34:503][228]Cmd: MAP LOAD FILE="../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-20.57.34:504][228]LightingResults: New page: Lighting Build
+[2018.09.29-20.57.34:505][228]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.29-20.57.34:550][228]MapCheck: New page: Map Check
+[2018.09.29-20.57.34:550][228]LightingResults: New page: Lighting Build
+[2018.09.29-20.57.34:661][228]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-20.57.34:661][228]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-20.57.34:695][228]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-20.57.34:761][228]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65,762ms to complete.
+[2018.09.29-20.57.34:762][228]LogFileHelpers: Loading map 'MainMenu' took 0.280
+[2018.09.29-20.57.40:686][885]Cmd: MAP LOAD FILE="../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-20.57.40:687][885]LightingResults: New page: Lighting Build
+[2018.09.29-20.57.40:688][885]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.29-20.57.40:692][885]MapCheck: New page: Map Check
+[2018.09.29-20.57.40:692][885]LightingResults: New page: Lighting Build
+[2018.09.29-20.57.40:716][885]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-20.57.40:717][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-20.57.40:748][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-20.57.40:814][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65,528ms to complete.
+[2018.09.29-20.57.40:815][885]LogFileHelpers: Loading map 'MainMenu' took 0.131
+[2018.09.29-20.57.43:263][161]LogEditorViewport: Clicking Background
+[2018.09.29-20.57.47:478][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-20.57.49:607][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-20.57.50:563][865]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 116 classes and 0 folders.
+[2018.09.29-20.57.51:407][865]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000052666450, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.29-20.57.51:413][865]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000052666448, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.29-20.57.52:563][865]LogSlate: Took 0.033992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-20.58.32:185][201]LogSlate: Window 'MainMenu* - Level Blueprint Editor' being destroyed
+[2018.09.29-20.58.38:817][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-21.01.32:567][287]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000059fb8d88, Size=4, Default__SKEL_MainMenu_C Function /Game/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.03.34:325][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000059fb8d88, Size=4
+[2018.09.29-21.03.34:325][459]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000057cdc738, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_23:ExecuteUbergraph_MainMenu
+[2018.09.29-21.03.34:328][459]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000057cdc700, Size=4, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.03.34:388][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000057cdc738, Size=4
+[2018.09.29-21.03.34:423][459]LogMetaData: Removing '/Game/Level/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2018.09.29-21.03.34:424][459]LogMetaData: Removing '/Game/Level/MainMenu.MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2018.09.29-21.03.34:424][459]LogMetaData: Removing '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2018.09.29-21.03.34:424][459]LogMetaData: Removing '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2018.09.29-21.03.34:612][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000057cdc700, Size=4
+[2018.09.29-21.03.34:612][459]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000057cdc700, Size=4, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_29:ExecuteUbergraph_MainMenu
+[2018.09.29-21.03.34:613][459]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000057cdc7c0, Size=4, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.03.34:962][459]LogSavePackage: Save=352.44ms
+[2018.09.29-21.03.34:963][459]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu0BBA60AF4E5C723047664394D407C443.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Level/MainMenu.umap'
+[2018.09.29-21.03.34:967][459]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Level/MainMenu.umap
+[2018.09.29-21.03.34:980][459]LogFileHelpers: Saving map 'MainMenu' took 0.479
+[2018.09.29-21.03.35:166][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000057cdc700, Size=4
+[2018.09.29-21.03.55:000][297]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.29-21.05.33:928][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Eigene Programme\Legenden von Andor\Bilder\Artworks\nicht eigen\Andor Background.jpg)
+[2018.09.29-21.05.34:030][372]LogTexture: Display: Building textures: Andor_Background (AutoDXT, 1920X1080)
+[2018.09.29-21.06.00:463][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.06.00:512][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.06.00:528][840]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.29-21.06.00:530][840]LogPlayLevel: [PlayLevel] Compiling MainMenu_BP before play...
+[2018.09.29-21.06.00:777][840]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2018.09.29-21.06.00:836][840]PIE: New page: PIE session: MainMenu (30.09.2018 01:06:00)
+[2018.09.29-21.06.00:837][840]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.06.00:859][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022072s)
+[2018.09.29-21.06.00:868][840]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.06.00:872][840]LogPlayLevel: PIE: World Init took: (0.004879s)
+[2018.09.29-21.06.00:873][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.035769s)
+[2018.09.29-21.06.00:931][840]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.06.00:954][840]LogInit: FAudioDevice initialized.
+[2018.09.29-21.06.01:126][840]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.06.01:127][840]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.06.01
+[2018.09.29-21.06.01:154][840]LogWorld: Bringing up level for play took: 0.026788
+[2018.09.29-21.06.01:169][840]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.06.01:264][840]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2018.09.29-21.06.01:301][840]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 1,017
+[2018.09.29-21.06.01:302][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.06.01:407][840]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-21.06.05:512][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.06.05:554][219]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.06.05:596][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.06.49:824][819]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000655fb660, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.06.49:878][820]LogSlate: Took 0.018769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-21.06.55:441][485]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000655fb660, Size=4
+[2018.09.29-21.06.55:441][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000065622490, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_5:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.06.55:443][485]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000656224d8, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.07.34:886][ 85]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.07.34:888][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000656224d8, Size=4
+[2018.09.29-21.07.34:888][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000065672788, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_6:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.07.34:891][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006472e790, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.07.35:018][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000065672788, Size=4
+[2018.09.29-21.07.35:018][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000065622490, Size=4
+[2018.09.29-21.07.57:753][738]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.07.57:757][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006472e790, Size=16
+[2018.09.29-21.07.57:758][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006ce6ca70, Size=16, MainMenu_BP_C_15 Function /Engine/Transient.REINST_MainMenu_BP_C_9:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.07.57:760][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006ce6e7a0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.08.01:683][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.08.01:701][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.01:702][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.08.01:702][191]PIE: New page: PIE session: MainMenu (30.09.2018 01:08:01)
+[2018.09.29-21.08.01:702][191]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.08.01:703][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000794s)
+[2018.09.29-21.08.01:704][191]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.08.01:705][191]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.09.29-21.08.01:705][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002352s)
+[2018.09.29-21.08.01:740][191]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006ce6ca70, Size=16
+[2018.09.29-21.08.01:762][191]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.08.01:785][191]LogInit: FAudioDevice initialized.
+[2018.09.29-21.08.01:897][191]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.08.01:898][191]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.08.01
+[2018.09.29-21.08.01:899][191]LogWorld: Bringing up level for play took: 0.000815
+[2018.09.29-21.08.01:900][191]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.08.01:902][191]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu -0,385
+[2018.09.29-21.08.01:903][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.03:249][346]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.08.03:256][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.03:291][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.08:012][714]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-21.08.08:410][714]LogSavePackage: Save=333.71ms
+[2018.09.29-21.08.08:410][714]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Andor_BackgroundCF1E5C8644C20CF306CB6780AA12B071.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Assets/Bilder/Andor_Background.uasset'
+[2018.09.29-21.08.08:415][714]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Assets/Bilder/Andor_Background.uasset
+[2018.09.29-21.08.08:416][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/MainMenu_BP" FILE="../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/BP/MainMenu_BP.uasset" SILENT=true
+[2018.09.29-21.08.08:438][714]LogSavePackage: Save=19.70ms
+[2018.09.29-21.08.08:438][714]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu_BP59D2DB3E4FC154B00D6027BC79D3B6AD.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/BP/MainMenu_BP.uasset'
+[2018.09.29-21.08.08:442][714]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/BP/MainMenu_BP.uasset
+[2018.09.29-21.08.08:445][714]Cmd: MAP LOAD FILE="../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Content/Level/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-21.08.08:445][714]LightingResults: New page: Lighting Build
+[2018.09.29-21.08.08:446][714]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.29-21.08.08:500][714]MapCheck: New page: Map Check
+[2018.09.29-21.08.08:500][714]LightingResults: New page: Lighting Build
+[2018.09.29-21.08.08:541][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000057cdc7c0, Size=4
+[2018.09.29-21.08.08:545][714]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000656726d8, Size=4, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.08.08:546][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000656726d8, Size=4
+[2018.09.29-21.08.08:546][714]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000656726d8, Size=4, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_43:ExecuteUbergraph_MainMenu
+[2018.09.29-21.08.08:547][714]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000065672878, Size=4, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.08.08:552][714]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.08.08:567][714]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-21.08.08:604][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000656726d8, Size=4
+[2018.09.29-21.08.08:618][714]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-21.08.08:689][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70,629ms to complete.
+[2018.09.29-21.08.08:690][714]LogFileHelpers: Loading map 'MainMenu' took 0.247
+[2018.09.29-21.08.09:457][800]LogEditorViewport: Clicking Background
+[2018.09.29-21.08.13:381][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-21.08.15:238][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-21.08.16:945][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-21.08.25:227][386]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.29-21.08.27:049][583]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.08.27:065][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.27:066][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.08.27:066][583]PIE: New page: PIE session: MainMenu (30.09.2018 01:08:27)
+[2018.09.29-21.08.27:066][583]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.08.27:067][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000786s)
+[2018.09.29-21.08.27:068][583]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.08.27:068][583]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2018.09.29-21.08.27:068][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002251s)
+[2018.09.29-21.08.27:130][583]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.08.27:154][583]LogInit: FAudioDevice initialized.
+[2018.09.29-21.08.27:184][583]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.08.27:185][583]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.08.27
+[2018.09.29-21.08.27:186][583]LogWorld: Bringing up level for play took: 0.001052
+[2018.09.29-21.08.27:188][583]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,901
+[2018.09.29-21.08.27:189][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.28:563][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.28:596][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.08.56:624][970]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000053983680, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.16:343][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000053983680, Size=4
+[2018.09.29-21.09.16:343][265]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000532ddbf8, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_11:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.16:345][265]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000532ddc50, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.18:514][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000532ddc50, Size=4
+[2018.09.29-21.09.18:514][502]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000052665150, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_12:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.18:516][502]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000052665178, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.54:111][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000052665178, Size=4
+[2018.09.29-21.09.54:111][562]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000656218d0, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_13:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.09.54:113][562]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000065620fa8, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.11.06:507][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-21.15.31:639][721]LogLinker: Can't find file '/Game/UI/MainMenu_BP'
+[2018.09.29-21.15.31:640][721]LogLinker: Can't find file '/Game/UI/MainMenu_BP'
+[2018.09.29-21.15.31:640][721]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'WidgetBlueprintGeneratedClass'/Game/UI/MainMenu_BP.MainMenu_BP_C',MemberName="WidgetReady",MemberGuid=3FAA02384E9662E88CE29EA1CE068901)'
+[2018.09.29-21.16.02:534][ 95]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'WidgetBlueprintGeneratedClass'/Game/UI/MainMenu_BP.MainMenu_BP_C',MemberName="WidgetReady",MemberGuid=3FAA02384E9662E88CE29EA1CE068901)'
+[2018.09.29-21.16.03:857][ 95]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.269 s
+[2018.09.29-21.16.03:857][ 95]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.29-21.16.03:857][ 95]LogOutputDevice: Error: 
+[2018.09.29-21.16.03:857][ 95]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.09.29-21.16.03:858][ 95]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'then' on node 'Set bShowMouseCursor' not reciprocally linked with pin 'execute' on node 'Widget Ready'
+[2018.09.29-21.16.03:858][ 95]LogOutputDevice: Error: Stack: 
+[2018.09.29-21.16.03:858][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C94CB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.16.03:858][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C922AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.16.03:859][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C923ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.16.03:859][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C66C68F3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.29-21.16.03:859][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C66C6719 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.29-21.16.03:860][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C66C6089 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.29-21.16.03:860][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C1DAE3BF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.16.03:860][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C1F93059 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.16.03:860][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C1D993C3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.16.03:860][ 95]LogOutputDevice: Error: [Callstack] 0x00000000BF1A8E4D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.16.03:861][ 95]LogOutputDevice: Error: [Callstack] 0x00000000BF1A8C2F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.16.03:861][ 95]LogOutputDevice: Error: [Callstack] 0x00000000BF13FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.16.03:861][ 95]LogOutputDevice: Error: [Callstack] 0x00000000BF144BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.16.03:861][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C5528376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:862][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C5564BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:862][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C00A02DD UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.29-21.16.03:862][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C5514D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:862][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C54E6D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:862][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C54E88F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:863][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C55663CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:863][ 95]LogOutputDevice: Error: [Callstack] 0x00000000C55599C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.16.03:863][ 95]LogOutputDevice: Error: [Callstack] 0x00000000CACAE3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.16.03:863][ 95]LogOutputDevice: Error: [Callstack] 0x00000000CACA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.16.03:864][ 95]LogOutputDevice: Error: [Callstack] 0x00000000CACB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.16.03:864][ 95]LogOutputDevice: Error: [Callstack] 0x00000000CAC9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.16.03:864][ 95]LogOutputDevice: Error: [Callstack] 0x0000000077679BBD USER32.dll!UnknownFunction []
+[2018.09.29-21.16.03:864][ 95]LogOutputDevice: Error: [Callstack] 0x00000000776798C2 USER32.dll!UnknownFunction []
+[2018.09.29-21.16.03:864][ 95]LogOutputDevice: Error: [Callstack] 0x00000000CACB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.16.03:865][ 95]LogOutputDevice: Error: [Callstack] 0x000000003F905475 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.16.03:865][ 95]LogOutputDevice: Error: [Callstack] 0x000000003F916BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.16.03:865][ 95]LogOutputDevice: Error: [Callstack] 0x000000003F916C4A UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.16.03:865][ 95]LogOutputDevice: Error: [Callstack] 0x000000003F924177 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.16.03:866][ 95]LogOutputDevice: Error: [Callstack] 0x000000003F925B87 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.16.03:866][ 95]LogOutputDevice: Error: [Callstack] 0x00000000777759CD kernel32.dll!UnknownFunction []
+[2018.09.29-21.16.03:866][ 95]LogOutputDevice: Error: [Callstack] 0x00000000778AA561 ntdll.dll!UnknownFunction []
+[2018.09.29-21.16.03:866][ 95]LogOutputDevice: Error: 
+[2018.09.29-21.16.03:868][ 95]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.29-21.16.10:741][ 95]LogStats:                    SendNewReport -  6.873 s
+[2018.09.29-21.16.10:741][ 95]LogStats:             FDebug::EnsureFailed -  8.179 s
+[2018.09.29-21.18.09:007][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000052665150, Size=4
+[2018.09.29-21.18.09:008][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000656218d0, Size=4
+[2018.09.29-21.18.09:008][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000532ddbf8, Size=4
+[2018.09.29-21.18.09:058][753]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000065672878, Size=4
+[2018.09.29-21.18.09:058][753]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a0b418, Size=4, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_51:ExecuteUbergraph_MainMenu
+[2018.09.29-21.18.09:060][753]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000783d77f0, Size=24, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.18.09:176][753]LogSavePackage: Save=123.34ms
+[2018.09.29-21.18.09:176][753]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu_Auto154B80B244B08BCCF5816E186CFBA713B.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/Level/MainMenu_Auto1.umap'
+[2018.09.29-21.18.09:178][753]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/Level/MainMenu_Auto1.umap
+[2018.09.29-21.18.09:181][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/MainMenu' took 0.210
+[2018.09.29-21.18.09:181][753]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2018.09.29-21.18.09:184][753]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/MainMenu_BP] ([1] browsable assets)...
+[2018.09.29-21.18.09:184][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MainMenu_BP]
+[2018.09.29-21.18.09:197][753]LogSavePackage: Save=9.43ms
+[2018.09.29-21.18.09:198][753]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu_BP_Auto1578312F649B6F22E23B7359D36B31060.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/BP/MainMenu_BP_Auto1.uasset'
+[2018.09.29-21.18.09:200][753]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/BP/MainMenu_BP_Auto1.uasset
+[2018.09.29-21.18.09:201][753]LogFileHelpers: Auto-saving content packages took 0.019
+[2018.09.29-21.20.56:628][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008b1e02e0, Size=4, Default__SKEL_MainMenu_C Function /Game/Level/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.21.00:463][683]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008b1e02e0, Size=4
+[2018.09.29-21.21.00:464][683]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008b386888, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_55:ExecuteUbergraph_MainMenu
+[2018.09.29-21.21.00:465][683]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008b3868c8, Size=4, Default__SKEL_MainMenu_C Function /Game/Level/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.21.02:408][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008b3868c8, Size=4
+[2018.09.29-21.21.02:409][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008c927da0, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_57:ExecuteUbergraph_MainMenu
+[2018.09.29-21.21.02:410][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008c927e40, Size=4, Default__SKEL_MainMenu_C Function /Game/Level/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.25.33:340][484]BlueprintLog: New page: Compile MainMenu
+[2018.09.29-21.25.33:343][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008c927e40, Size=4
+[2018.09.29-21.25.33:344][484]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008b3875e8, Size=4, SKEL_MainMenu_C_0 Function /Engine/Transient.REINST_SKEL_MainMenu_C_59:ExecuteUbergraph_MainMenu
+[2018.09.29-21.25.33:347][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000783d77f0, Size=24
+[2018.09.29-21.25.33:347][484]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000726ba6f8, Size=24, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_61:ExecuteUbergraph_MainMenu
+[2018.09.29-21.25.33:349][484]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000726bbc10, Size=24, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.25.33:480][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008b3875e8, Size=4
+[2018.09.29-21.25.33:480][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008c927da0, Size=4
+[2018.09.29-21.25.33:480][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008b386888, Size=4
+[2018.09.29-21.25.33:480][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000087a0b418, Size=4
+[2018.09.29-21.25.34:580][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.25.34:594][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.25.34:594][613]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.29-21.25.34:596][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000065620fa8, Size=4
+[2018.09.29-21.25.34:597][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008c927bb8, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_14:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.34:599][613]LogPlayLevel: [PlayLevel] Compiling MainMenu_BP before play...
+[2018.09.29-21.25.34:601][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006ce6e7a0, Size=16
+[2018.09.29-21.25.34:601][613]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000075dd60a0, Size=16, Default__MainMenu_BP_C Function /Engine/Transient.REINST_MainMenu_BP_C_15:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.34:603][613]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000075dd7550, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.34:745][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008c927bb8, Size=4
+[2018.09.29-21.25.34:745][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000726ba6f8, Size=24
+[2018.09.29-21.25.34:746][613]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2018.09.29-21.25.34:747][613]PIE: New page: PIE session: MainMenu (30.09.2018 01:25:34)
+[2018.09.29-21.25.34:747][613]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.25.34:749][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2018.09.29-21.25.34:750][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.25.34:750][613]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2018.09.29-21.25.34:750][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.003253s)
+[2018.09.29-21.25.34:816][613]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.25.34:849][613]LogInit: FAudioDevice initialized.
+[2018.09.29-21.25.34:955][613]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.25.34:956][613]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.25.34
+[2018.09.29-21.25.34:957][613]LogWorld: Bringing up level for play took: 0.000948
+[2018.09.29-21.25.34:958][613]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.25.35:001][613]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,694
+[2018.09.29-21.25.35:002][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.25.38:906][ 53]LogRenderer: Reallocating scene render targets to support 1300x756 Format 10 NumSamples 1 (Frame:443).
+[2018.09.29-21.25.39:032][ 53]LogRenderer: Reallocating scene render targets to support 1348x800 Format 10 NumSamples 1 (Frame:444).
+[2018.09.29-21.25.39:095][ 53]LogRenderer: Reallocating scene render targets to support 1400x840 Format 10 NumSamples 1 (Frame:445).
+[2018.09.29-21.25.39:278][ 53]LogRenderer: Reallocating scene render targets to support 1404x844 Format 10 NumSamples 1 (Frame:447).
+[2018.09.29-21.25.39:338][ 53]LogRenderer: Reallocating scene render targets to support 1404x848 Format 10 NumSamples 1 (Frame:448).
+[2018.09.29-21.25.39:442][ 53]LogRenderer: Reallocating scene render targets to support 1408x848 Format 10 NumSamples 1 (Frame:450).
+[2018.09.29-21.25.40:013][ 53]LogRenderer: Reallocating scene render targets to support 1412x848 Format 10 NumSamples 1 (Frame:451).
+[2018.09.29-21.25.40:082][ 53]LogRenderer: Reallocating scene render targets to support 1444x848 Format 10 NumSamples 1 (Frame:452).
+[2018.09.29-21.25.40:164][ 53]LogRenderer: Reallocating scene render targets to support 1508x848 Format 10 NumSamples 1 (Frame:453).
+[2018.09.29-21.25.40:250][ 53]LogRenderer: Reallocating scene render targets to support 1516x848 Format 10 NumSamples 1 (Frame:454).
+[2018.09.29-21.25.40:304][ 53]LogRenderer: Reallocating scene render targets to support 1520x848 Format 10 NumSamples 1 (Frame:455).
+[2018.09.29-21.25.41:620][ 53]LogRenderer: Reallocating scene render targets to support 1520x852 Format 10 NumSamples 1 (Frame:473).
+[2018.09.29-21.25.41:716][ 53]LogRenderer: Reallocating scene render targets to support 1520x856 Format 10 NumSamples 1 (Frame:475).
+[2018.09.29-21.25.46:054][155]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.25.46:060][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.25.46:096][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.25.54:459][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf95f8, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.56:620][272]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.25.56:623][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073cf95f8, Size=4
+[2018.09.29-21.25.56:623][272]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000556d7c30, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_17:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.56:628][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000075dd7550, Size=16
+[2018.09.29-21.25.56:628][272]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000079d6aa60, Size=16, MainMenu_BP_C_38 Function /Engine/Transient.REINST_MainMenu_BP_C_18:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.56:630][272]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000079d692d0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.25.56:765][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000556d7c30, Size=4
+[2018.09.29-21.25.57:626][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.25.57:647][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.25.57:648][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.25.57:649][356]PIE: New page: PIE session: MainMenu (30.09.2018 01:25:57)
+[2018.09.29-21.25.57:649][356]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.25.57:650][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000965s)
+[2018.09.29-21.25.57:651][356]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.25.57:651][356]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.09.29-21.25.57:651][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002455s)
+[2018.09.29-21.25.57:710][356]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.25.57:732][356]LogInit: FAudioDevice initialized.
+[2018.09.29-21.25.57:834][356]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.25.57:836][356]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.25.57
+[2018.09.29-21.25.57:836][356]LogWorld: Bringing up level for play took: 0.000804
+[2018.09.29-21.25.57:837][356]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.25.57:841][356]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu -0,467
+[2018.09.29-21.25.57:841][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.26.12:076][383]LogRenderer: Reallocating scene render targets to support 1532x856 Format 10 NumSamples 1 (Frame:1032).
+[2018.09.29-21.26.12:148][383]LogRenderer: Reallocating scene render targets to support 1552x856 Format 10 NumSamples 1 (Frame:1033).
+[2018.09.29-21.26.12:259][383]LogRenderer: Reallocating scene render targets to support 1556x856 Format 10 NumSamples 1 (Frame:1035).
+[2018.09.29-21.26.12:349][383]LogRenderer: Reallocating scene render targets to support 1564x856 Format 10 NumSamples 1 (Frame:1037).
+[2018.09.29-21.26.16:113][475]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.26.16:118][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.26.16:152][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.03:798][937]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.27.03:804][937]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000079d692d0, Size=16
+[2018.09.29-21.27.03:804][937]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000090771020, Size=16, MainMenu_BP_C_43 Function /Engine/Transient.REINST_MainMenu_BP_C_20:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.03:806][937]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000090773800, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.04:802][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.27.04:815][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.04:816][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.27.04:816][ 22]PIE: New page: PIE session: MainMenu (30.09.2018 01:27:04)
+[2018.09.29-21.27.04:816][ 22]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.27.04:817][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000951s)
+[2018.09.29-21.27.04:818][ 22]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.27.04:819][ 22]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2018.09.29-21.27.04:819][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002484s)
+[2018.09.29-21.27.04:878][ 22]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.27.04:901][ 22]LogInit: FAudioDevice initialized.
+[2018.09.29-21.27.05:018][ 22]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.27.05:019][ 22]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.27.05
+[2018.09.29-21.27.05:020][ 22]LogWorld: Bringing up level for play took: 0.000824
+[2018.09.29-21.27.05:020][ 22]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.27.05:025][ 22]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,716
+[2018.09.29-21.27.05:025][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.08:069][278]LogRenderer: Reallocating scene render targets to support 1564x864 Format 10 NumSamples 1 (Frame:265).
+[2018.09.29-21.27.08:118][278]LogRenderer: Reallocating scene render targets to support 1564x880 Format 10 NumSamples 1 (Frame:266).
+[2018.09.29-21.27.12:261][414]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.27.12:266][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.12:297][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.15:475][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000078fff160, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.17:638][993]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.27.17:641][993]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000078fff160, Size=4
+[2018.09.29-21.27.17:641][993]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004d631a50, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_22:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.17:645][993]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000090773800, Size=16
+[2018.09.29-21.27.17:645][993]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008789cd30, Size=16, MainMenu_BP_C_49 Function /Engine/Transient.REINST_MainMenu_BP_C_23:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.17:647][993]LogUObjectGlobals: Created PersistentFrame Addr=0x000000008789ccf0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.27.17:806][993]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004d631a50, Size=4
+[2018.09.29-21.27.18:466][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.27.18:479][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.18:480][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.27.18:480][ 54]PIE: New page: PIE session: MainMenu (30.09.2018 01:27:18)
+[2018.09.29-21.27.18:480][ 54]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.27.18:482][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001060s)
+[2018.09.29-21.27.18:483][ 54]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.27.18:483][ 54]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2018.09.29-21.27.18:483][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002919s)
+[2018.09.29-21.27.18:540][ 54]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.27.18:563][ 54]LogInit: FAudioDevice initialized.
+[2018.09.29-21.27.18:671][ 54]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.27.18:672][ 54]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.27.18
+[2018.09.29-21.27.18:672][ 54]LogWorld: Bringing up level for play took: 0.000828
+[2018.09.29-21.27.18:673][ 54]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.27.18:677][ 54]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,367
+[2018.09.29-21.27.18:677][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.26:724][433]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.27.26:728][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.27.26:761][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.29.11:986][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000726bbc10, Size=24
+[2018.09.29-21.29.11:986][102]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000557cd960, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_83:ExecuteUbergraph_MainMenu
+[2018.09.29-21.29.11:988][102]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000557cca78, Size=24, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.29.12:117][102]LogSavePackage: Save=136.76ms
+[2018.09.29-21.29.12:117][102]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu_Auto22BC3FBA64308A028E017F6B10C923A38.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/Level/MainMenu_Auto2.umap'
+[2018.09.29-21.29.12:120][102]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/Level/MainMenu_Auto2.umap
+[2018.09.29-21.29.12:122][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/MainMenu' took 0.186
+[2018.09.29-21.29.12:123][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2018.09.29-21.29.12:125][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/MainMenu_BP] ([1] browsable assets)...
+[2018.09.29-21.29.12:126][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MainMenu_BP]
+[2018.09.29-21.29.12:153][102]LogSavePackage: Save=9.31ms
+[2018.09.29-21.29.12:153][102]LogSavePackage: Moving '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/MainMenu_BP_Auto25A5D593A4E6F7F239F47B5BD4AE2B844.tmp' to '../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/BP/MainMenu_BP_Auto2.uasset'
+[2018.09.29-21.29.12:156][102]LogSavePackage: Display: Finished SavePackage ../../../../../../../Eigene Programme/Legenden von Andor/Unreal Dateien/Andor/Saved/Autosaves/Game/BP/MainMenu_BP_Auto2.uasset
+[2018.09.29-21.29.12:156][102]LogFileHelpers: Auto-saving content packages took 0.032
+[2018.09.29-21.31.08:572][574]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.31.08:576][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000008789ccf0, Size=16
+[2018.09.29-21.31.08:577][574]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073dfc0a0, Size=16, MainMenu_BP_C_55 Function /Engine/Transient.REINST_MainMenu_BP_C_25:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.08:578][574]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073dfeea0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.08:718][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000557cd960, Size=24
+[2018.09.29-21.31.09:497][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.31.09:510][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.09:511][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.31.09:512][645]PIE: New page: PIE session: MainMenu (30.09.2018 01:31:09)
+[2018.09.29-21.31.09:512][645]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.31.09:513][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000926s)
+[2018.09.29-21.31.09:514][645]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.31.09:514][645]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.09.29-21.31.09:514][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002415s)
+[2018.09.29-21.31.09:575][645]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.31.09:601][645]LogInit: FAudioDevice initialized.
+[2018.09.29-21.31.09:712][645]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.31.09:713][645]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.31.09
+[2018.09.29-21.31.09:713][645]LogWorld: Bringing up level for play took: 0.000907
+[2018.09.29-21.31.09:714][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.31.09:718][645]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu -0,596
+[2018.09.29-21.31.09:718][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.15:012][865]LogRenderer: Reallocating scene render targets to support 1568x880 Format 10 NumSamples 1 (Frame:284).
+[2018.09.29-21.31.15:055][865]LogRenderer: Reallocating scene render targets to support 1584x880 Format 10 NumSamples 1 (Frame:285).
+[2018.09.29-21.31.15:104][865]LogRenderer: Reallocating scene render targets to support 1604x880 Format 10 NumSamples 1 (Frame:286).
+[2018.09.29-21.31.15:171][865]LogRenderer: Reallocating scene render targets to support 1612x880 Format 10 NumSamples 1 (Frame:287).
+[2018.09.29-21.31.15:214][865]LogRenderer: Reallocating scene render targets to support 1620x880 Format 10 NumSamples 1 (Frame:288).
+[2018.09.29-21.31.18:124][  5]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.31.18:129][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.18:161][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.31:123][452]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004d633658, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.33:590][696]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.31.33:592][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004d633658, Size=4
+[2018.09.29-21.31.33:593][696]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000556d4530, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_27:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.33:595][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073dfeea0, Size=16
+[2018.09.29-21.31.33:596][696]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087082d80, Size=16, MainMenu_BP_C_61 Function /Engine/Transient.REINST_MainMenu_BP_C_28:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.33:597][696]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087082d10, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.31.33:724][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000556d4530, Size=4
+[2018.09.29-21.31.34:510][766]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.31.34:525][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.34:526][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.31.34:526][766]PIE: New page: PIE session: MainMenu (30.09.2018 01:31:34)
+[2018.09.29-21.31.34:526][766]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.31.34:527][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2018.09.29-21.31.34:528][766]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.31.34:529][766]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.09.29-21.31.34:529][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002534s)
+[2018.09.29-21.31.34:587][766]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.31.34:610][766]LogInit: FAudioDevice initialized.
+[2018.09.29-21.31.34:717][766]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.31.34:718][766]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.31.34
+[2018.09.29-21.31.34:719][766]LogWorld: Bringing up level for play took: 0.000820
+[2018.09.29-21.31.34:719][766]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.31.34:723][766]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,409
+[2018.09.29-21.31.34:723][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.40:625][876]LogRenderer: Reallocating scene render targets to support 1620x888 Format 10 NumSamples 1 (Frame:209).
+[2018.09.29-21.31.40:674][876]LogRenderer: Reallocating scene render targets to support 1620x908 Format 10 NumSamples 1 (Frame:210).
+[2018.09.29-21.31.40:724][876]LogRenderer: Reallocating scene render targets to support 1620x912 Format 10 NumSamples 1 (Frame:211).
+[2018.09.29-21.31.47:658][970]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.31.47:663][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.47:696][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.55:956][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.31.55:972][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.55:974][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-21.31.55:974][873]PIE: New page: PIE session: MainMenu (30.09.2018 01:31:55)
+[2018.09.29-21.31.55:974][873]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.31.55:976][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001143s)
+[2018.09.29-21.31.55:977][873]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.31.55:977][873]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2018.09.29-21.31.55:977][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.003005s)
+[2018.09.29-21.31.56:048][873]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.31.56:072][873]LogInit: FAudioDevice initialized.
+[2018.09.29-21.31.56:188][873]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.31.56:189][873]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.31.56
+[2018.09.29-21.31.56:190][873]LogWorld: Bringing up level for play took: 0.001055
+[2018.09.29-21.31.56:191][873]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.31.56:196][873]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu -0,118
+[2018.09.29-21.31.56:197][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.59:281][158]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.31.59:286][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.31.59:322][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.34.37:090][855]LogUObjectGlobals: Created PersistentFrame Addr=0x000000004d630bf0, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.37.01:353][483]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.37.01:356][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000004d630bf0, Size=4
+[2018.09.29-21.37.01:356][483]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf9d38, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_30:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.37.01:362][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000087082d10, Size=16
+[2018.09.29-21.37.01:362][483]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073dfe7d0, Size=16, MainMenu_BP_C_68 Function /Engine/Transient.REINST_MainMenu_BP_C_31:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.37.01:364][483]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073dfd6f0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.37.01:565][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073cf9d38, Size=4
+[2018.09.29-21.37.02:389][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-21.37.02:405][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.37.02:406][561]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.29-21.37.02:409][561]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.09.29-21.37.02:413][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000557cca78, Size=24
+[2018.09.29-21.37.02:413][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000083fc00e8, Size=24, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_101:ExecuteUbergraph_MainMenu
+[2018.09.29-21.37.02:415][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000083fc0d30, Size=24, Default__MainMenu_C Function /Game/Level/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.09.29-21.37.02:554][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000083fc00e8, Size=24
+[2018.09.29-21.37.02:555][561]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2018.09.29-21.37.02:556][561]PIE: New page: PIE session: MainMenu (30.09.2018 01:37:02)
+[2018.09.29-21.37.02:556][561]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2018.09.29-21.37.02:558][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001256s)
+[2018.09.29-21.37.02:559][561]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.29-21.37.02:559][561]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2018.09.29-21.37.02:559][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.003099s)
+[2018.09.29-21.37.02:624][561]LogInit: XAudio2 using 'Lautsprecher (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-21.37.02:665][561]LogInit: FAudioDevice initialized.
+[2018.09.29-21.37.02:772][561]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-21.37.02:773][561]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.29-23.37.02
+[2018.09.29-21.37.02:774][561]LogWorld: Bringing up level for play took: 0.000758
+[2018.09.29-21.37.02:775][561]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-21.37.02:778][561]PIE: Play in editor start time for /Game/Level/UEDPIE_0_MainMenu 0,458
+[2018.09.29-21.37.02:779][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.37.12:584][975]LogSlate: Window 'Andor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-21.37.12:588][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.37.12:623][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Level/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.29-21.40.05:869][451]BlueprintLog: New page: Compile MainMenu_BP
+[2018.09.29-21.40.05:876][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073dfd6f0, Size=16
+[2018.09.29-21.40.05:876][451]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000078680ac0, Size=16, MainMenu_BP_C_74 Function /Engine/Transient.REINST_MainMenu_BP_C_33:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.05:878][451]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000078683ab0, Size=16, Default__MainMenu_BP_C Function /Game/BP/MainMenu_BP.MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.19:944][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a08d28, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.26:370][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000087a08d28, Size=4
+[2018.09.29-21.40.26:371][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf9f78, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_35:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.26:372][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf8f70, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.29:024][ 66]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073cf8f70, Size=4
+[2018.09.29-21.40.29:024][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007c830dd8, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_36:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.29:026][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007c8304c8, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.34:980][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000007c8304c8, Size=4
+[2018.09.29-21.40.34:981][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf98a0, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_37:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.34:982][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf9b60, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.47:600][ 76]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073cf9b60, Size=4
+[2018.09.29-21.40.47:600][ 76]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a0a430, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_38:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.40.47:601][ 76]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a099c8, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.23:034][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000087a099c8, Size=4
+[2018.09.29-21.41.23:034][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a099c8, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_39:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.23:036][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000087a0b178, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.30:446][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000087a0b178, Size=4
+[2018.09.29-21.41.30:446][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf8c08, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_40:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.30:448][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000073cf9f40, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.35:063][242]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000073cf9f40, Size=4
+[2018.09.29-21.41.35:064][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007c830de0, Size=4, Default__SKEL_MainMenu_BP_C Function /Engine/Transient.REINST_SKEL_MainMenu_BP_C_41:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.41.35:065][242]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007c8307a0, Size=4, Default__SKEL_MainMenu_BP_C Function /Game/BP/MainMenu_BP.SKEL_MainMenu_BP_C:ExecuteUbergraph_MainMenu_BP
+[2018.09.29-21.42.15:239][482]LogEditorTransaction: Undo Edit Y
+[2018.09.29-21.42.15:273][482]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.018 s
+[2018.09.29-21.42.15:273][482]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.29-21.42.15:273][482]LogOutputDevice: Error: 
+[2018.09.29-21.42.15:273][482]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2100]
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: 
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: Stack: 
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: [Callstack] 0x00000000C94CB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: [Callstack] 0x00000000C922AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: [Callstack] 0x00000000C923ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.29-21.42.15:274][482]LogOutputDevice: Error: [Callstack] 0x00000000C6705E98 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.29-21.42.15:275][482]LogOutputDevice: Error: [Callstack] 0x00000000C1E79F15 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:275][482]LogOutputDevice: Error: [Callstack] 0x00000000C1EA2062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:275][482]LogOutputDevice: Error: [Callstack] 0x00000000C1E89329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:275][482]LogOutputDevice: Error: [Callstack] 0x00000000C1E89C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:276][482]LogOutputDevice: Error: [Callstack] 0x00000000C1EF019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:276][482]LogOutputDevice: Error: [Callstack] 0x00000000C1F31F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:276][482]LogOutputDevice: Error: [Callstack] 0x00000000BF13FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.42.15:276][482]LogOutputDevice: Error: [Callstack] 0x00000000BF144BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.29-21.42.15:277][482]LogOutputDevice: Error: [Callstack] 0x00000000C5528376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:277][482]LogOutputDevice: Error: [Callstack] 0x00000000C5564BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:277][482]LogOutputDevice: Error: [Callstack] 0x00000000C26D06AE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:278][482]LogOutputDevice: Error: [Callstack] 0x00000000C26BBC4C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.29-21.42.15:278][482]LogOutputDevice: Error: [Callstack] 0x00000000C5514D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:278][482]LogOutputDevice: Error: [Callstack] 0x00000000C54E6D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:278][482]LogOutputDevice: Error: [Callstack] 0x00000000C54E88F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:279][482]LogOutputDevice: Error: [Callstack] 0x00000000C55663CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:279][482]LogOutputDevice: Error: [Callstack] 0x00000000C55599C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.29-21.42.15:279][482]LogOutputDevice: Error: [Callstack] 0x00000000CACAE3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.42.15:279][482]LogOutputDevice: Error: [Callstack] 0x00000000CACA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.42.15:279][482]LogOutputDevice: Error: [Callstack] 0x00000000CACB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.42.15:280][482]LogOutputDevice: Error: [Callstack] 0x00000000CAC9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.42.15:280][482]LogOutputDevice: Error: [Callstack] 0x0000000077679BBD USER32.dll!UnknownFunction []
+[2018.09.29-21.42.15:280][482]LogOutputDevice: Error: [Callstack] 0x00000000776798C2 USER32.dll!UnknownFunction []
+[2018.09.29-21.42.15:280][482]LogOutputDevice: Error: [Callstack] 0x00000000CACB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.29-21.42.15:281][482]LogOutputDevice: Error: [Callstack] 0x000000003F905475 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.42.15:281][482]LogOutputDevice: Error: [Callstack] 0x000000003F916BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.42.15:281][482]LogOutputDevice: Error: [Callstack] 0x000000003F916C4A UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.42.15:281][482]LogOutputDevice: Error: [Callstack] 0x000000003F924177 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.42.15:281][482]LogOutputDevice: Error: [Callstack] 0x000000003F925B87 UE4Editor.exe!UnknownFunction []
+[2018.09.29-21.42.15:282][482]LogOutputDevice: Error: [Callstack] 0x00000000777759CD kernel32.dll!UnknownFunction []
+[2018.09.29-21.42.15:282][482]LogOutputDevice: Error: [Callstack] 0x00000000778AA561 ntdll.dll!UnknownFunction []
+[2018.09.29-21.42.15:282][482]LogOutputDevice: Error: 
+[2018.09.29-21.42.15:290][482]LogStats:                SubmitErrorReport -  0.000 s
